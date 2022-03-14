@@ -1,0 +1,17 @@
+C:\Users\Mason Riley\source\repos\BetterCPSTest\BetterCPSTest\bin\Debug\net6.0-windows\BetterCPSTest.exe
+C:\Users\Mason Riley\source\repos\BetterCPSTest\BetterCPSTest\bin\Debug\net6.0-windows\BetterCPSTest.deps.json
+C:\Users\Mason Riley\source\repos\BetterCPSTest\BetterCPSTest\bin\Debug\net6.0-windows\BetterCPSTest.runtimeconfig.json
+C:\Users\Mason Riley\source\repos\BetterCPSTest\BetterCPSTest\bin\Debug\net6.0-windows\BetterCPSTest.dll
+C:\Users\Mason Riley\source\repos\BetterCPSTest\BetterCPSTest\bin\Debug\net6.0-windows\BetterCPSTest.pdb
+C:\Users\Mason Riley\source\repos\BetterCPSTest\BetterCPSTest\obj\Debug\net6.0-windows\BetterCPSTest.csproj.AssemblyReference.cache
+C:\Users\Mason Riley\source\repos\BetterCPSTest\BetterCPSTest\obj\Debug\net6.0-windows\BetterCPSTest.Form1.resources
+C:\Users\Mason Riley\source\repos\BetterCPSTest\BetterCPSTest\obj\Debug\net6.0-windows\BetterCPSTest.csproj.GenerateResource.cache
+C:\Users\Mason Riley\source\repos\BetterCPSTest\BetterCPSTest\obj\Debug\net6.0-windows\BetterCPSTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mason Riley\source\repos\BetterCPSTest\BetterCPSTest\obj\Debug\net6.0-windows\BetterCPSTest.AssemblyInfoInputs.cache
+C:\Users\Mason Riley\source\repos\BetterCPSTest\BetterCPSTest\obj\Debug\net6.0-windows\BetterCPSTest.AssemblyInfo.cs
+C:\Users\Mason Riley\source\repos\BetterCPSTest\BetterCPSTest\obj\Debug\net6.0-windows\BetterCPSTest.csproj.CoreCompileInputs.cache
+C:\Users\Mason Riley\source\repos\BetterCPSTest\BetterCPSTest\obj\Debug\net6.0-windows\BetterCPSTest.dll
+C:\Users\Mason Riley\source\repos\BetterCPSTest\BetterCPSTest\obj\Debug\net6.0-windows\refint\BetterCPSTest.dll
+C:\Users\Mason Riley\source\repos\BetterCPSTest\BetterCPSTest\obj\Debug\net6.0-windows\BetterCPSTest.pdb
+C:\Users\Mason Riley\source\repos\BetterCPSTest\BetterCPSTest\obj\Debug\net6.0-windows\BetterCPSTest.genruntimeconfig.cache
+C:\Users\Mason Riley\source\repos\BetterCPSTest\BetterCPSTest\obj\Debug\net6.0-windows\ref\BetterCPSTest.dll
